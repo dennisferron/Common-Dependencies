@@ -81,8 +81,11 @@ doxygen/*
 
 dmalloc/dmalloc
 
+#Ignore boost build outputs
 project-config.jam
 boostcpp.jam
 b2
 bjam
-
+*.gch
+bin.v2
+jam0
