@@ -80,3 +80,9 @@ doxygen/*
 !LikeMagic/LikeMagicManual/*.*
 
 dmalloc/dmalloc
+
+project-config.jam
+boostcpp.jam
+b2
+bjam
+
