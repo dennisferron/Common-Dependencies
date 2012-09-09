@@ -28,6 +28,9 @@ callgrind*
 callgrind.*
 callgrind.out.*.*
 
+# Ignore jam files
+*.jam
+*.jam.1
 
 # Ignore generated dll files
 *.dll
